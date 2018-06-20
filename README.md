@@ -1,6 +1,6 @@
-# XYZReader
+# Feed Reader
 In this project, I redesigned an app to follow the Material Design guidelines and translate a set of static design mocks to a living and breathing app.It gives an opportunity to improve an app’s design, a vital skill for building apps users will love. It also replicates a common developer task of updating and changing an app's design as new standards are released.
-XYZ Reader: A mock RSS feed reader featuring banner photos and shocking headlines! 
+Feed Reader: A mock RSS feed reader featuring banner photos and shocking headlines! 
 
 #Project Specification
 * App uses the Design Support library and its provided widget types (FloatingActionButton, AppBarLayout, SnackBar, etc).
